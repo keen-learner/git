@@ -1,2 +1,2 @@
 # GIT
-has information regarding git, anaything and everything.
+has information regarding git, anything and everything.
